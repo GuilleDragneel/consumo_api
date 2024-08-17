@@ -1,3 +1,4 @@
+# Configuración de RSpec para pruebas unitarias en Ruby.
 require_relative '../property_fetcher'
 
 RSpec.configure do |config|

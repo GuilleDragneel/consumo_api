@@ -1,3 +1,4 @@
+# La clase PropertyFetcher se encarga de obtener títulos de propiedades desde una API externa.
 require 'net/http'
 require 'json'
 

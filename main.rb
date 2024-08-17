@@ -1,3 +1,4 @@
+#En este documento se hace el consummo de la API
 require 'uri'
 require 'net/http'
 require 'json'
